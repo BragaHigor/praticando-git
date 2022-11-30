@@ -1,1 +1,3 @@
-Porjeto para praticar o uso do Git
+Projeto para praticar o uso do Git
+
+Executando uma alteração
